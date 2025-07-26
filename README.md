@@ -116,6 +116,8 @@ cd smart-inventory
 ## Verification
 - The database should now be populated with necessary tables
 - You can verify by checking the structure in phpMyAdmin
+```
+
 ---
 
 ## 🌐 Connect with Me
