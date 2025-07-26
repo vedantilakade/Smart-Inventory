@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Smart Inventory
@@ -152,3 +153,6 @@ This project is licensed - see [LICENSE](LICENSE) for details.
 <div align="center">
 Made with ❤️ by Smart Inventory Group
 </div>
+=======
+# Smart-Inventory
+>>>>>>> da6686af64e931954aa7b7b62126f3acb5e3814d
